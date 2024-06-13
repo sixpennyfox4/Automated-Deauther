@@ -2,7 +2,7 @@
 
 printf "Whats the target bssid?: "
 read bssid
-printf "Do you want to deauth a specific device (leave black if no if yes then put the device station): "
+printf "Do you want to deauth a specific device (leave blank if no if yes then put the device station): "
 read station
 printf "Whats the interface?: "
 read interface
